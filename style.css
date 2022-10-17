@@ -1,0 +1,26 @@
+
+.body{
+    background: rgb(2,0,36);
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(121,84,9,1) 35%, rgba(0,212,255,1) 100%);
+     
+     
+   }
+   .hello{
+     text-align: center;
+    letter-spacing: 3px;
+   }
+   .charlyDog{
+    display: block;
+    margin-left: auto;
+    margin-right: auto
+   }
+   .p1{
+    letter-spacing: 3px;
+    text-align: center;
+    text-decoration: none;
+   }
+   .img2{
+    display: block;
+    margin-left: auto;
+    margin-right: auto
+   }
